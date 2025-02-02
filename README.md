@@ -47,7 +47,7 @@ You can download the project files directly from the repository.
 
 Here is the bar plot showing the TOPSIS scores of each model:
 
-![TOPSIS Plot](images/topsis_plot.png)
+![TOPSIS Plot](topsis.png)
 
 
 ## License

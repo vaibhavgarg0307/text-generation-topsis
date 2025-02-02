@@ -49,7 +49,3 @@ Here is the bar plot showing the TOPSIS scores of each model:
 
 ![TOPSIS Plot](topsis.png)
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

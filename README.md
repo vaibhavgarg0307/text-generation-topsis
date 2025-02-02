@@ -43,6 +43,13 @@ pip install torch transformers pandas matplotlib numpy
 
 You can download the project files directly from the repository.
 
+## Results
+
+Here is the bar plot showing the TOPSIS scores of each model:
+
+![TOPSIS Plot](images/topsis_plot.png)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
